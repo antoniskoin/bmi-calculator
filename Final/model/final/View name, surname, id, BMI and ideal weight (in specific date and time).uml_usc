@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmlns:xmi='http://www.omg.org/spec/XMI/20131001' xmlns:uml='http://www.omg.org/spec/UML/20131001'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='12.2.1.4.0'/>
+ <uml:UseCase xmi:type='uml:UseCase' xmi:uuid='urn:uuid:d69dc4d0-3e55-4b5b-af5e-d0e99c7da23f'
+   isAbstract='false'
+   isFinalSpecialization='false'
+   isLeaf='false'
+   name='View name, surname, id, BMI and ideal weight (in specific date and time)'
+   visibility='public'>
+  <extend xmi:type='uml:Extend' xmi:uuid='urn:uuid:3fe2b3ef-5a13-4945-ae96-c6059fa9f442'>
+   <extendedCase href='urn:uuid:94d24cca-3cb4-4d29-8854-e5c3e1d628d4'/>
+   <extensionLocation href='urn:uuid:0bc5f708-3eef-4ce1-869f-35e830b2af85'/>
+  </extend>
+ </uml:UseCase>
+</xmi:XMI>

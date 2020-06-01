@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmlns:xmi='http://www.omg.org/spec/XMI/20131001' xmlns:uml='http://www.omg.org/spec/UML/20131001'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='12.2.1.4.0'/>
+ <uml:UseCase xmi:type='uml:UseCase' xmi:uuid='urn:uuid:64523d26-d811-4200-b243-7530db3e30a8'
+   isAbstract='false'
+   isFinalSpecialization='false'
+   isLeaf='false'
+   name='Enter necessary information to calculate'
+   visibility='public'>
+  <extend xmi:type='uml:Extend' xmi:uuid='urn:uuid:ccf08ced-21a9-41a1-b29a-6ed4aeef02fc'>
+   <extendedCase href='urn:uuid:e008c509-c7c7-4ba7-8552-688e5ee8b864'/>
+   <extensionLocation href='urn:uuid:c8c7184c-d1f2-4d22-8867-afd62296a12d'/>
+  </extend>
+ </uml:UseCase>
+</xmi:XMI>
